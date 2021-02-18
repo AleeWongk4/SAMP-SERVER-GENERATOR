@@ -1,2 +1,3 @@
-# website
-simpel aja sih
+# SA:MP SERVER GENERATOR
+
+
