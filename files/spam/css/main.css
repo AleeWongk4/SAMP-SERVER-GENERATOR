@@ -1,1 +1,41 @@
+h1 {
+	color: #dc3545;
+	font-family: monospace;
+	font-size: 20px;
+	}
+	
+body {
+	background-color: #000000;
+}
 
+	.button{
+	left:420px; 
+	top:370px; 
+	width:150px;
+    height:50px;
+	background-color: #dc3545;
+	border-radius: 15px;
+	border :0 solid black;
+	color: ;
+	font-size: 20px;
+	font-family: monospace;
+	}
+	
+	.button:hover {
+    background-color: #970301;
+	}
+	
+	.changelog {
+	width:200px;
+    height:45px;
+	background-color: #dc3545;
+	border-radius: 15px;
+	border :0 solid black;
+	color: ;
+	font-size: 20px;
+	font-family: monospace;
+	}
+	
+    .changelog:hover {
+    background-color: #970301;
+	}
